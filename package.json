@@ -1,0 +1,10 @@
+{
+  "name": "shopify-challenge-ibrahim",
+  "description": "Shopify Back-End Intern Challenge 2018",
+  "author": "Ibrahim Irfan <1ibrahimirfan@gmail.com>",
+  "main": "shopify.js",
+  "dependencies": {
+    "node-fetch": ">=1.7.3"
+  },
+  "engine": "node >= 7.6.0"
+}
